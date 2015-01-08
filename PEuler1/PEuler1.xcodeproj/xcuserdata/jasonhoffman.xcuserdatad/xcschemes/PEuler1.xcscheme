@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "31433F431A5F172F00E3420B"
-               BuildableName = "PEuler2"
-               BlueprintName = "PEuler2"
-               ReferencedContainer = "container:PEuler2.xcodeproj">
+               BlueprintIdentifier = "31433F1D1A5F018600E3420B"
+               BuildableName = "PEuler1"
+               BlueprintName = "PEuler1"
+               ReferencedContainer = "container:PEuler1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "31433F431A5F172F00E3420B"
-            BuildableName = "PEuler2"
-            BlueprintName = "PEuler2"
-            ReferencedContainer = "container:PEuler2.xcodeproj">
+            BlueprintIdentifier = "31433F1D1A5F018600E3420B"
+            BuildableName = "PEuler1"
+            BlueprintName = "PEuler1"
+            ReferencedContainer = "container:PEuler1.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "31433F431A5F172F00E3420B"
-            BuildableName = "PEuler2"
-            BlueprintName = "PEuler2"
-            ReferencedContainer = "container:PEuler2.xcodeproj">
+            BlueprintIdentifier = "31433F1D1A5F018600E3420B"
+            BuildableName = "PEuler1"
+            BlueprintName = "PEuler1"
+            ReferencedContainer = "container:PEuler1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "31433F431A5F172F00E3420B"
-            BuildableName = "PEuler2"
-            BlueprintName = "PEuler2"
-            ReferencedContainer = "container:PEuler2.xcodeproj">
+            BlueprintIdentifier = "31433F1D1A5F018600E3420B"
+            BuildableName = "PEuler1"
+            BlueprintName = "PEuler1"
+            ReferencedContainer = "container:PEuler1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
